@@ -131,9 +131,3 @@ app/
 └── page.tsx
 prisma/                        # schema และ migrations
 ```
-
-## การส่งงานขึ้น GitHub ด้วย GitHub Desktop
-
-1. เปิด GitHub Desktop เลือก *File → Add local repository* แล้วเลือกโฟลเดอร์โปรเจกต์นี้ (หรือ *Create new repository* ชื่อ `streaming`)
-2. ใส่ Summary เช่น `add zod validation, loading, suspense, skeleton, error pages` แล้วกด *Commit to main*
-3. กด *Publish repository* แล้วส่งลิงก์ `https://github.com/<your-username>/streaming` ตามที่โจทย์กำหนด
